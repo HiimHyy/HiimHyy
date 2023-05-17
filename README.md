@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
 <h3 align="center">A student at South-Eastern University of Applied Sciences</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Fullstack**
 
 - 📫 How to reach me **quochuytran130804@gmail.com**
 
