@@ -5,7 +5,7 @@
 
 - I'm the creator of [Bloggie](https://bloggieforyou.netlify.app/)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** & **Go**
 
 - 📫 How to reach me **quochuytran130804@gmail.com**
 
