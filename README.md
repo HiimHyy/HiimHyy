@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">A student at South-Eastern University of Applied Sciences</h3>
+<h3 align="center">A student at South-Eastern Finland University of Applied Sciences</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiimhyy" alt="hiimhyy" /></a> </p>
 
 - I'm the creator of [Bloggie](https://bloggieforyou.netlify.app/)
 
-- 🌱 I’m currently learning **Rust** & **Go**
+- 🌱 I’m currently working on Pired and Diem
 
 - 📫 How to reach me **quochuytran130804@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/huy-tran-xamk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huy-tran-xamk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/quochuytran1308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huy-tran" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
