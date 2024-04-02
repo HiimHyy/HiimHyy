@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **quochuytran130804@gmail.com**
 
-- ⚡ Useless fact **I play War Thunder on my Linux and it is painful**
+- ⚡ Useless fact **My cat name is Bingus**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
