@@ -1,12 +1,23 @@
-<h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">A student at South-Eastern Finland University of Applied Sciences</h3>
+# Hi there, I'm Huy 👋
 
-- I'm the creator of [Bloggie](https://bloggieforyou.netlify.app/)
+I'm a student at South-Eastern Finland University of Applied Sciences and the creator of [Bloggie](https://bloggieforyou.netlify.app/).
 
-- 🌱 I’m currently working on Pired and Diem
+## Current Projects 🌱
 
-- 📫 How to reach me **quochuytran130804@gmail.com**
+I’m currently working on Pired and Diem.
 
-- ⚡ Useless fact **My cat name is Bingus and he is not hairless**
+## Contact Me 📫
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/hiimhyy.png" alt="TryHackMe">
+You can reach me at: <quochuytran130804@gmail.com>
+
+## Fun Fact ⚡
+
+My cat's name is Bingus and contrary to popular belief, he is not hairless.
+
+## Badges
+
+![tryhackme stats](https://raw.githubusercontent.com/hiimhyy/hiimhyy/master/assets/thm_propic.png)
+
+## Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/hiimhyy/count.svg)
