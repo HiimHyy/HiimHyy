@@ -16,7 +16,7 @@ My cat's name is Bingus and contrary to popular belief, he is not hairless.
 
 ## Badges
 
-![tryhackme stats](https://raw.githubusercontent.com/hiimhyy/hiimhyy/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/hiimhyy.png" alt="TryHackMe">
 
 ## Visitor Count
 
