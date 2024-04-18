@@ -10,7 +10,7 @@ My cat's name is Bingus and, despite rumors, he is not a huge Sand Worm.
 
 ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/hiimhyy.png?1)
 
-## Accolades from Throughout the Imperiumount
+## Accolades from Throughout the Imperium
 
 ![Visitor Count](https://profile-counter.glitch.me/hiimhyy/count.svg)
 
@@ -18,7 +18,7 @@ My cat's name is Bingus and, despite rumors, he is not a huge Sand Worm.
 > neofetch
 ```
 
-<img src="https://i.imgur.com/UE9Vvwy.png" align="left" alt="Alternative Text" width="300" height="300">
+<img src="https://i.imgur.com/UE9Vvwy.png" align="left" alt="Alternative Text" width="250" height="250">
 
 ```css
 hiimhyy@github
