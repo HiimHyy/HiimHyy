@@ -18,7 +18,7 @@ My cat's name is Bingus and, despite rumors, he is not a huge Sand Worm.
 > neofetch
 ```
 
-<img src="https://i.ibb.co/qnZKQ1v/avatar.png" align="left" alt="Alternative Text" width="300" height="300">
+<img src="https://i.imgur.com/UE9Vvwy.png" align="left" alt="Alternative Text" width="300" height="300">
 
 ```css
 hiimhyy@github
