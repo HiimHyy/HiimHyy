@@ -1,23 +1,36 @@
-# Hi there, I'm Huy 👋
+# Welcome, Traveler from the Known Universe 👋
 
-I'm a student at South-Eastern Finland University of Applied Sciences and the creator of [Bloggie](https://bloggieforyou.netlify.app/).
+## My Current Endeavors 🌌
 
-## Current Projects 🌱
+`“He who controls the spice controls the universe.”` ― _Frank Herbert, Dune_
 
-I’m currently working on Pired and Diem.
+I am currently channeling my inner Mentat towards mastering **Cybersecurity** and **Software Development**. I enjoy exploring the vast expanse of Open Source Software and contributing to the community.
 
-## Contact Me 📫
+## Spice of Life ⚡
 
-You can reach me at: <quochuytran130804@gmail.com>
+My cat's name is Bingus and, despite rumors, he is not a huge Sand Worm.
 
-## Fun Fact ⚡
-
-My cat's name is Bingus and contrary to popular belief, he is not hairless.
-
-## Badges
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/hiimhyy.png" alt="TryHackMe">
-
-## Visitor Count
+## Accolades from Throughout the Imperiumount
 
 ![Visitor Count](https://profile-counter.glitch.me/hiimhyy/count.svg)
+
+```zsh
+> neofetch
+```
+
+<img src="https://i.ibb.co/qnZKQ1v/avatar.png" align="left" alt="Alternative Text" width="300" height="300">
+
+```css
+hiimhyy@github
+-------------------------
+OS: MacOS 14.4.1
+Shell: zsh 5.8
+WM: Yabai
+Terminal: iTerm2
+Pronouns: He/Him
+Location: Mikkeli, Finland
+Languages: JavaScript/TypeScript, Python, C#, Golang
+Tools: Docker, Git, GitHub, Vim/Neovim
+Hobbies: Basketball, Cooking, Hacking (Ethical)
+Discord: hiimhyy
+```
