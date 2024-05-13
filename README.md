@@ -8,7 +8,7 @@ I am currently channeling my inner Mentat towards mastering **Cybersecurity** an
 
 My cat's name is Bingus and, despite rumors, he is not a huge Sand Worm.
 
-![tryhackme](https://tryhackme-badges.s3.amazonaws.com/hiimhyy.png?1)
+<img src="https://tryhackme-badges.s3.amazonaws.com/hiimhyy.png" alt="TryHackMe">
 
 ## Accolades from Throughout the Imperium
 
