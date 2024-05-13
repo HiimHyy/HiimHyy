@@ -26,7 +26,7 @@ hiimhyy@github
 OS: MacOS 14.4.1
 Shell: zsh 5.8
 WM: Yabai
-Terminal: iTerm2
+Terminal: Alacritty
 Pronouns: He/Him
 Location: Mikkeli, Finland
 Languages: JavaScript/TypeScript, Python, C#, Golang
